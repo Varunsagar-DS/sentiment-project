@@ -1,2 +1,2 @@
 textblob
-pytube2
+pytube3
