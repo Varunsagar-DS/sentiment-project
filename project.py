@@ -1,6 +1,6 @@
 import streamlit as st
 from textblob import TextBlob
-from pytube import YouTube
+from pytube2 import YouTube
 st.title("what you want to do")
 tab_titles= ["Sentiment Analysis","Youtube Video Download"]
 tabs=st.tabs(tab_titles)
