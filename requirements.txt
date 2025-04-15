@@ -1,2 +1,3 @@
 textblob
+pytube
 pytube2
